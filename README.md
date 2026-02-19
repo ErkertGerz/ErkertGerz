@@ -1,11 +1,20 @@
-## Hi there 👋
+<img width="1711" height="970" alt="Картинка №2" src="https://github.com/user-attachments/assets/217670fa-f99f-43d4-b086-14c7a61e4b85" />
+
+<div align="center">
+
+# ࣪ 𓆩༒︎𓆪ㅤHi, I am Gerzㅤ𓆩༒︎𓆪
+
+### Student of the Polar State University
+
+</div>
 
 <!--
 **ErkertGerz/ErkertGerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currentl
+y working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
