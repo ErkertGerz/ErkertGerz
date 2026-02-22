@@ -29,6 +29,53 @@ I'm currently studying at university with the goal of becoming a good backend de
 ---
 
 <div align="center">
+  
+## 📈 Stats
+
+  <img src="https://streak-stats.demolab.com/?user=ErkertGerz&theme=radical" width="50%" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErkertGerz&theme=radical" width="50%" />
+</div>
+
+<div align="center">
+  <h2>📈 Stats</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+      ### 📊 Статистика активности
+      
+      - 🔥 Серия коммитов показывает мою регулярность
+      - 📈 Детальная статистика отражает прогресс
+      - 💻 Больше всего работаю с C++ и Python
+      
+      #### 🎯 Текущие цели:
+      - Изучить продвинутые паттерны проектирования
+      - Улучшить навыки работы с базами данных
+      - Завершить 3 пет-проекта до конца семестра
+      
+      #### 📍 Планы на ближайшее время:
+      - Освоить Docker
+      - Написать свой первый пакет для Python
+      - Участвовать в open-source
+      
+    </td>
+    <td width="50%" align="center" valign="top">
+      
+      <!-- Ваши плашки прогресса -->
+      <img src="https://streak-stats.demolab.com/?user=ErkertGerz&theme=radical" width="90%" />
+      <br><br>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErkertGerz&theme=radical" width="90%" />
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
 
 # Contact
 
@@ -41,16 +88,3 @@ I'm currently studying at university with the goal of becoming a good backend de
 
 </div>
 
-
-## 📈 Stats
-
-<div align="center">
-  
-  <!-- Streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=ErkertGerz&theme=radical"/>
-
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErkertGerz&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=amrei-bp&repo=readme_playground&show_owner=true)](https://github.com/amrei-bp/github-readme-stats)
