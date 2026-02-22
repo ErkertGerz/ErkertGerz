@@ -1,6 +1,6 @@
-<img width="1711" height="970" alt="Картинка №2" src="https://github.com/user-attachments/assets/217670fa-f99f-43d4-b086-14c7a61e4b85" />
-
 <div align="center">
+
+<img width="1711" height="800" alt="Картинка №2" src="https://github.com/user-attachments/assets/217670fa-f99f-43d4-b086-14c7a61e4b85" />
 
 # ࣪ 𓆩༒︎𓆪ㅤHi, I am Gerzㅤ𓆩༒︎𓆪
 
