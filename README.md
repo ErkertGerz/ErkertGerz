@@ -42,32 +42,15 @@ I'm currently studying at university with the goal of becoming a good backend de
 </div>
 
 
-## 📈 Моя статистика
+## 📈 Stats
 
 <div align="center">
-
-  <!-- Статистика профиля -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErkertGerz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
-  <!-- Наиболее используемые языки -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErkertGerz&layout=compact&langs_count=7&theme=radical"/>
-
   <!-- Streak stats -->
   <img src="https://streak-stats.demolab.com/?user=ErkertGerz&theme=radical"/>
 
-  <!-- Трофеи (опционально) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ErkertGerz&theme=radical&no-frame=true&row=2&column=4"/>
-
 </div>
-
-
-## 🏆 Мои достижения
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ErkertGerz&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 📊 Статистика
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ВАШ_НИК&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ВАШ_НИК&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ВАШ_НИК&theme=radical)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=amrei-bp&repo=readme_playground&show_owner=true)](https://github.com/amrei-bp/github-readme-stats)
