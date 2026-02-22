@@ -61,4 +61,6 @@ I'm currently studying at university with the goal of becoming a good backend de
 </div>
 
 
-![Metrics](https://raw.githubusercontent.com/ErkertGerz/ErkertGerz/main/Metrics.svg)
+## 🏆 Мои достижения
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErkertGerz&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
