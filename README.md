@@ -34,8 +34,8 @@
 
 НАПИХАЙ СЮДА КАРТИНОК И ПРИВЯЖИ ИХ ПО ССЫЛКАМ
 
-<a href="https://www.behance.com/308f155e"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" alt="Behance" width="32" height="32"> </a>
-<a href="ССЫЛКА ПЕРЕХОДА ЧТО ПРИВЯЗАЫВАЕТСЯ К КАРТИНКЕ"> <img src="" alt="НАЗВАНИЕ КАРТИНКИ" width="ШИРИНА" height="ВЫСОТА"> </a>
+<a href="https://www.behance.net/308f155et" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" alt="Behance" width="32" height="32"> </a>
+<a href="https://discord.com/users/1415323830418800771"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="32" height="32"> </a>
 <a href="ССЫЛКА ПЕРЕХОДА ЧТО ПРИВЯЗАЫВАЕТСЯ К КАРТИНКЕ"> <img src="ССЫЛКУ СЮДА" alt="НАЗВАНИЕ КАРТИНКИ" width="ШИРИНА" height="ВЫСОТА"> </a>
 
 <p align="center"> <a href="https://www.behance.com/308f155e" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> 
