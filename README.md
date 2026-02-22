@@ -64,3 +64,10 @@ I'm currently studying at university with the goal of becoming a good backend de
 ## 🏆 Мои достижения
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ErkertGerz&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 📊 Статистика
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ВАШ_НИК&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ВАШ_НИК&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ВАШ_НИК&theme=radical)
