@@ -45,8 +45,9 @@ At university, I'm focusing on C++ and C#, gaining an academic foundation. At th
 
   <img src="https://streak-stats.demolab.com/?user=ErkertGerz&theme=moltack" width="40%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ErkertGerz&theme=moltack" width="55.5%" />
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/moltack/3-stats.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/moltack/2-most-commit-language.svg" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ErkertGerz&theme=moltack" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErkertGerz&theme=moltack" width="48%" />
+
 </div>
 
  ---
